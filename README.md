@@ -18,9 +18,7 @@ The greatest decrease in profits (date and amount) over the entire period
 
 PyPoll
 
-In the second part of this challenge, I am tasked to look closer into election data of Pypoll
-
-I refered to the election data located under resources called election_data.csv for Pypoll. The dataset is composed of three columns: Voter ID, County, and Candidate. My task is to create a Python script that analyzes the votes and calculates each of the following:
+In the second part of this challenge, I am tasked to look closer into the election data of Pypoll. I refered to the election data located under resources called election_data.csv for Pypoll. The dataset is composed of three columns: Voter ID, County, and Candidate. My task is to create a Python script that analyzes the votes and calculates each of the following:
 
 The total number of votes cast
 
